@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\arpit\AppData\Roaming\npm\node_modules\opencv4nodejs\node_modules\opencv-build\opencv\build\CMakeFiles\1cd8698a0fc98ee8dd8c3671dcf4a8c7\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{D8D03194-1467-34C9-AF48-93F491782844}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
